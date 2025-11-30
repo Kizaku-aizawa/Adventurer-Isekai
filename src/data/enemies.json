@@ -1,0 +1,4 @@
+[
+  { "id": "slime", "name": "Slime", "hp": 20, "exp": 5, "gold": 2 },
+  { "id": "goblin", "name": "Goblin", "hp": 40, "exp": 12, "gold": 6 }
+]

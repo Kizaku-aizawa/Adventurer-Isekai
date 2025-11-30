@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom kecil */
+body {
+  background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%);
+  color: white;
+}
